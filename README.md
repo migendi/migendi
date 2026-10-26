@@ -4,6 +4,8 @@
 
 I’m a technically minded maker with a strong interest in **Home Assistant, ESPHome, ESP32, electronics, networking, 3D printing and CAD**.
 
+Located in the beautiful south-west of germany, near to the border of France and Switzerland
+
 A major focus of my current projects is bringing **Home Assistant into motorhomes and campers** — integrating vehicle systems, sensors and custom hardware into a single smart-home environment.
 
 ## Current interests
