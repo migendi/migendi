@@ -27,7 +27,7 @@ A major focus of my current projects is bringing **Home Assistant into motorhome
 
 A Home Assistant solution for monitoring and managing hot tub water chemistry, including dosing suggestions, historical data and adaptive learning based on actual chemical dosing.
 
-CAD, 3D Printing & Product Development
+## CAD, 3D Printing & Product Development
 
 Besides electronics and software, I design functional parts and products using CAD and additive manufacturing.
 
