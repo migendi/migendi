@@ -25,6 +25,17 @@ A major focus of my current projects is bringing **Home Assistant into motorhome
 
 A Home Assistant solution for monitoring and managing hot tub water chemistry, including dosing suggestions, historical data and adaptive learning based on actual chemical dosing.
 
+CAD, 3D Printing & Product Development
+
+Besides electronics and software, I design functional parts and products using CAD and additive manufacturing.
+
+One of these projects is a custom wheel/rim solution for Segway Navimow robotic lawn mowers, developed from initial CAD design through prototyping and practical testing.
+
+The design has also been the subject of an intellectual property filing with the German Patent and Trade Mark Office (DPMA).
+
+For me, 3D printing is primarily a manufacturing and development tool: identify a problem, design a solution, prototype it, test it and improve it.
+
+
 ## Current playground: Smart Motorhome
 
 I’m currently working on integrating a **Rimor motorhome based on a Fiat Ducato** into Home Assistant.
