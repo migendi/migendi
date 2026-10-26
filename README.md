@@ -44,4 +44,5 @@ The goal is not just to display data, but to understand and integrate systems th
 ## Home Assistant for Campers
 
 I also run a German Facebook community focused specifically on **Home Assistant für Camper**, , where we exchange ideas and practical solutions for making recreational vehicles smarter.
+
 and also only in german available our shop: 🌐 [omasprintfarm.de](https://www.omasprintfarm.de)
